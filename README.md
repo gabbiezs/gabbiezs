@@ -1,7 +1,6 @@
 
-
-# Olá 👋, eu sou a Gabbie!
-
+<img align="right" height="600" src="https://user-images.githubusercontent.com/117361604/199835516-46fbcabd-560d-4fd5-8df3-a6042c3eac7f.gif" />
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou a Gabbie!</h1>
 
 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
 
@@ -20,18 +19,3 @@
 
 ![Snake animation](https://github.com/gabbiezs/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
-
-<!--
-**gabbiezs/gabbiezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
