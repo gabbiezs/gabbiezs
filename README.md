@@ -6,7 +6,7 @@
 
 🔭 Estou tentando aprender desenvolvimento full Stack
 
-⚡ Estagiando em T.I na empresa Orsegups
+⚡ Procurando estágio na área de desenvolvimento
 
 📚 Lendo nas horas vagas
 
