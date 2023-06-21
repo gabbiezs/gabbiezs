@@ -6,7 +6,7 @@
 
 🔭 Estou tentando aprender desenvolvimento full Stack
 
-⚡ Procurando estágio na área de desenvolvimento
+⚡ Procurando trabalho na área de desenvolvimento e suporte
 
 📚 Lendo nas horas vagas
 
