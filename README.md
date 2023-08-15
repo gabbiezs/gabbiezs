@@ -6,7 +6,7 @@
 
 🔭 Estou tentando aprender desenvolvimento full Stack
 
-⚡ Procurando trabalho na área de desenvolvimento e suporte
+⚡ Estagiária de Desenvolvimento na empresa Nia
 
 📚 Lendo nas horas vagas
 
