@@ -4,9 +4,9 @@
 
 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
 
-🔭 Estou tentando aprender desenvolvimento full Stack
+🔭 Estou aprendendo desenvolvimento full Stack
 
-⚡ Estagiária de Desenvolvimento na empresa Nia
+⚡ Analista de Sistemas - Junior
 
 📚 Lendo nas horas vagas
 
