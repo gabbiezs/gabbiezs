@@ -6,7 +6,7 @@
 
 🔭 Estou aprendendo desenvolvimento full Stack
 
-⚡ Analista de Sistemas - Junior
+⚡ Sou Analista de Sistemas - Junior
 
 📚 Lendo nas horas vagas
 
