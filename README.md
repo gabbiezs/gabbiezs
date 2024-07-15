@@ -2,7 +2,7 @@
 <img align="right" height="550" src="https://user-images.githubusercontent.com/117361604/199835516-46fbcabd-560d-4fd5-8df3-a6042c3eac7f.gif" />
 <h1 align="left">Hii, I'm Gabbie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-🎓 I'm graduated in Systems Analysis and Development from SENAC in Florianópolis
+🎓 I'm graduated in Analysis and Development Systems from SENAC in Florianópolis
 
 📚 My studies are focused on full Stack development
 
