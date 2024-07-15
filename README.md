@@ -1,17 +1,16 @@
 
 <img align="right" height="550" src="https://user-images.githubusercontent.com/117361604/199835516-46fbcabd-560d-4fd5-8df3-a6042c3eac7f.gif" />
-<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou a Gabbie!</h1>
+<h1 align="left">Hii, I'm Gabbie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-🌱 Sou formada em Análise e Desenvolvimento de Sistemas pela instituição SENAC de Florianópolis
+🎓 Graduation in Systems Analysis and Development from SENAC in Florianópolis
 
-🔭 Estudos com foco em desenvolvimento full Stack
+📚 Studies focused on full Stack development
 
-⚡ Atualmente trabalhando como Analista de Sistemas Junior
+👩‍💻 Working as a Junior Systems Analyst
 
-📚 Lendo nas horas vagas
+# Skills
 
-
-# Tecnologias de Interesse
+# Currently studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 
 
